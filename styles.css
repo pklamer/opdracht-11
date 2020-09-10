@@ -1,0 +1,29 @@
+
+body {
+    background-color: rgb(206, 230, 238);
+  }
+h3 { 
+font-size: 11px;
+}
+
+  H2 { text-align: center }
+
+     .blogpost1 {
+         width: 300px; border: 1px solid black; background: rgb(156, 187, 196); display: align-self;}
+      
+      .blogpost2 {
+        width: 300px; border: 1px solid black; background: rgb(159, 190, 199); display: inline-block;
+      }
+      .blogpost3 {
+        width: 300px; border: 1px solid black; background: rgb(231, 195, 182);display: inline-block;
+      }
+      .blogpost4 {
+        width: 300px; border: 1px solid black; background: rgb(208, 216, 182);display: inline-block;
+      }
+      .blogpost5 {
+        width: 300px; border: 1px solid black;  background: rgb(186, 180, 209);display: flex-growk;
+      }
+
+
+      
+    
